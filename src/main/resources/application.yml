@@ -18,4 +18,4 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto criado para o bootcamp da Dio Com o Santander.
+  description: Projeto criado para o bootcamp da Dio Com o Santander / Backend.
